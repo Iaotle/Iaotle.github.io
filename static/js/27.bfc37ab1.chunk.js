@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwip_site=self.webpackChunkwip_site||[]).push([[27],{27:(e,s,t)=>{e.exports=t.p+"static/media/about.d71e317c3f77286f29f8.md"}}]);

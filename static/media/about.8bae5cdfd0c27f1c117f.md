@@ -6,7 +6,7 @@ I am a co-founder and the CTO of [Arthena](https://arthena.com) where I build to
 
 # Currently
 I'm a developer working at [Resumedia](https://resumedia.com) to build their Jobseeker product, written in JS. I'm responsible
-for maintaining the system, fixing bugs, adding features, and have migrated the entire solution to the newest Laravel and PHP version.
+for maintaining the system, fixing bugs, adding features. This includes working on the in-house CRM, the React frontend, JS backend, and some of the AWS setup.
 <!-- At Arthena, I have learned how to build teams, manage people, shape culture, develop relationships with customers, sell enterprise products, and build on-line predictive models with technologies like [Dask](https://dask.org/), [Dagster](https://dagster.io/), [TensorFlow](https://www.tensorflow.org/), and [spaCy](https://spacy.io/). I primarily work as a data engineer but have broad experience across Arthena’s stack. -->
 
 # Some history

@@ -1,0 +1,31 @@
+BEGIN:VCARD
+VERSION:3.0
+KIND:individual
+FN:Vadim Isakov
+N:Isakov;Vadim;;;
+NICKNAME:V
+BDAY:1999-02-16
+GENDER:M
+BIRTHPLACE:Syktyvkar;Komi Republic;Russia
+TEL;TYPE=home,cell;VALUE=uri:+31-636-47-75-75
+EMAIL;TYPE=home:vadim@iaotle.dev
+EMAIL;TYPE=work:vadim@resumedia.com
+URL:https://iaotle.dev
+ADR;TYPE=home:;;Darlingstraat 983;Amsterdam;Noord-Holland;1102MX;The Netherlands
+ADR;TYPE=work:;;Overschiestraat 63;Amsterdam;Noord-Holland;1062XD;The Netherlands
+ORG:Resumedia
+TITLE:Full-stack Software Developer
+ROLE:Developer
+CATEGORIES:ENGINEERING,OPEN-SOURCE
+SOURCE:https://iaotle.dev/vcards/me.vcf
+GRAMGENDER:masculine
+PRONOUNS:he/him
+EXPERTISE:expert
+HOBBY:medium
+INTEREST:high
+TZ:Europe/Amsterdam
+LANG:en,ru,no,nl
+PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0
+aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMj
+IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCABgAGADA
+END:VCARD
